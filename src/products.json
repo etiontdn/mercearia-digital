@@ -1,0 +1,221 @@
+{
+	"products": [
+		{
+			"name": "Abacate",
+			"image": "abacate.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/abacate",
+			"price": 3.19
+		},
+		{
+			"name": "Abóbora",
+			"image": "abobora.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/abobora",
+			"price": 4.39
+		},
+		{
+			"name": "Água",
+			"image": "agua.svg",
+			"categories": ["drinks"],
+			"link": "/produtos/agua",
+			"price": 3.59
+		},
+		{
+			"name": "Alho",
+			"image": "alho.svg",
+			"categories": ["ingredient", "vegetable"],
+			"link": "/produtos/alho",
+			"price": 2.72
+		},
+		{
+			"name": "Batata",
+			"image": "batata.svg",
+			"categories": ["vegetable"],
+			"link": "/produtos/batata",
+			"price": 1.6
+		},
+		{
+			"name": "Brócolis",
+			"image": "brocolis.svg",
+			"categories": ["vegetable"],
+			"link": "/produtos/brocolis",
+			"price": 2.99
+		},
+		{
+			"name": "Carne",
+			"image": "carne.svg",
+			"categories": ["animal", "meat"],
+			"link": "/produtos/carne",
+			"price": 15.39
+		},
+		{
+			"name": "Cebola",
+			"image": "cebola.svg",
+			"categories": ["ingredient", "vegetable"],
+			"link": "/produtos/cebola",
+			"price": 2.25
+		},
+		{
+			"name": "Cenoura",
+			"image": "cenoura.svg",
+			"categories": ["vegetable"],
+			"link": "/produtos/cenoura",
+			"price": 0.8
+		},
+		{
+			"name": "Cereja",
+			"image": "cereja.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/cereja",
+			"price": 0.43
+		},
+		{
+			"name": "Chocolate",
+			"image": "chocolate.svg",
+			"categories": ["sweet"],
+			"link": "/produtos/chocolate",
+			"price": 15.7
+		},
+		{
+			"name": "Coco",
+			"image": "coco.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/coco",
+			"price": 2.8
+		},
+		{
+			"name": "Croissant",
+			"image": "croissant.svg",
+			"categories": ["bread"],
+			"link": "/produtos/croissant",
+			"price": 2.55
+		},
+		{
+			"name": "Farinha",
+			"image": "farinha.svg",
+			"categories": ["ingredient", "bread"],
+			"link": "/produtos/farinha",
+			"price": 4.19
+		},
+		{
+			"name": "Laranja",
+			"image": "laranja.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/laranja",
+			"price": 4.19
+		},
+		{
+			"name": "Leite",
+			"image": "leite.svg",
+			"categories": ["drinks", "ingredient"],
+			"link": "/produtos/leite",
+			"price": 3.59
+		},
+		{
+			"name": "Limão",
+			"image": "limao.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/limao",
+			"price": 1.6
+		},
+		{
+			"name": "Linguiça",
+			"image": "linguica.svg",
+			"categories": ["animal", "meat"],
+			"link": "/produtos/linguica",
+			"price": 7.39
+		},
+		{
+			"name": "Maçã",
+			"image": "maca.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/maca",
+			"price": 1.78
+		},
+		{
+			"name": "Milho",
+			"image": "milho.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/milho",
+			"price": 1.63
+		},
+		{
+			"name": "Ovo",
+			"image": "ovo.svg",
+			"categories": ["animal", "ingredient"],
+			"link": "/produtos/ovo",
+			"price": 0.56
+		},
+		{
+			"name": "Pão de Forma",
+			"image": "pao_de_forma.svg",
+			"categories": ["bread"],
+			"link": "/produtos/paodeforma",
+			"price": 7.19
+		},
+		{
+			"name": "Peixe",
+			"image": "peixe.svg",
+			"categories": ["animal", "meat"],
+			"link": "/produtos/peixe",
+			"price": 33.9
+		},
+		{
+			"name": "Picolé Gourmet",
+			"image": "picole.svg",
+			"categories": ["sweet"],
+			"link": "/produtos/picole",
+			"price": 9.69
+		},
+		{
+			"name": "Pimenta",
+			"image": "pimenta.svg",
+			"categories": ["fruit", "vegetable", "ingredient"],
+			"link": "/produtos/pimenta",
+			"price": 13.39
+		},
+		{
+			"name": "Pizza",
+			"image": "pizza.svg",
+			"categories": ["bread"],
+			"link": "/produtos/pizza",
+			"price": 17.89
+		},
+		{
+			"name": "Pretzel",
+			"image": "pretzel.svg",
+			"categories": ["bread"],
+			"link": "/produtos/pretzel",
+			"price": 2.98
+		},
+		{
+			"name": "Queijo",
+			"image": "queijo.svg",
+			"categories": ["animal"],
+			"link": "/produtos/queijo",
+			"price": 11.78
+		},
+		{
+			"name": "Refrigerante",
+			"image": "refrigerante.svg",
+			"categories": ["drinks", "sweet"],
+			"link": "/produtos/refrigerante",
+			"price": 2.39
+		},
+		{
+			"name": "Tomate",
+			"image": "tomate.svg",
+			"categories": ["fruit", "vegetal"],
+			"link": "/produtos/tomate",
+			"price": 0.87
+		},
+		{
+			"name": "Uva",
+			"image": "uva.svg",
+			"categories": ["fruit"],
+			"link": "/produtos/uva",
+			"price": 9.99
+		}
+	]
+}

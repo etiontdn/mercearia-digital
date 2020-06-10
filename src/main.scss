@@ -1,0 +1,86 @@
+// Import Bulma's core
+@import '~bulma/sass/utilities/_all';
+$input-placeholder-color: $black-ter;
+// Set your colors
+//$primary: #8c67ef;
+$primary: #b94054;
+$primary-invert: findColorInvert($primary);
+$light-background: #f3f4ee;
+$light-background-invert: findColorInvert($light-background);
+$dark-background: #1f181b;
+$dark-background-invert: $light-background; //findColorInvert($dark-background);
+$light-accent: $dark-background; //#928DA8;
+$light-accent-invert: findColorInvert($light-accent);
+$dark-accent: #b94054;
+$dark-accent-invert: findColorInvert($dark-accent);
+
+//modify variables
+$input-focus-border-color: $link;
+$input-focus-box-shadow-color: rgba($link, 0.4);
+$input-background-color: $light-background;
+
+$menu-item-active-background-color: $primary;
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+  'white': (
+    $white,
+    $black
+  ),
+  'black': (
+    $black,
+    $white
+  ),
+  'light': (
+    $light,
+    $light-invert
+  ),
+  'dark': (
+    $dark,
+    $dark-invert
+  ),
+  'primary': (
+    $primary,
+    $primary-invert
+  ),
+  'info': (
+    $info,
+    $info-invert
+  ),
+  'success': (
+    $success,
+    $success-invert
+  ),
+  'warning': (
+    $warning,
+    $warning-invert
+  ),
+  'danger': (
+    $danger,
+    $danger-invert
+  ),
+  'light-background': (
+    $light-background,
+    $light-background-invert
+  ),
+  'dark-background': (
+    $dark-background,
+    $dark-background-invert
+  ),
+  'light-accent': (
+    $light-accent,
+    $light-accent-invert
+  ),
+  'dark-accent': (
+    $dark-accent,
+    $dark-accent-invert
+  )
+);
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+@import '~bulma';
+@import '~buefy/src/scss/buefy';
