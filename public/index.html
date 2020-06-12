@@ -8,7 +8,7 @@
       rel="stylesheet"
       href="https://cdn.materialdesignicons.com/5.3.45/css/materialdesignicons.min.css"
     />
-    <link rel="icon" href="./favicon.ico" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
 
     <title>Mercearia Digital: compras sem sair de casa!</title>
   </head>
@@ -22,14 +22,5 @@
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
-    <script type="text/javascript">
-      (function() {
-        var redirect = sessionStorage.redirect;
-        delete sessionStorage.redirect;
-        if (redirect && redirect != location.href) {
-          history.replaceState(null, null, redirect);
-        }
-      })();
-    </script>
   </body>
 </html>
